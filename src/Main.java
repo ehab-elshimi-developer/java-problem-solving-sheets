@@ -1,12 +1,12 @@
 public class Main {
 
     public static void main(String[] args) {
-//        testGeneratedSheet(3);
-         runProblem(3, 1);
+//        testGeneratedSheet(4);
+         runProblem(4, 1);
     }
 
     public static void testGeneratedSheet(int sheetNumber) {
-        for (int i = 1; i <= 10; i++) {
+        for (int i = 1; i <= 6; i++) {
             runProblem(sheetNumber, i);
         }
     }
