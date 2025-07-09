@@ -1,8 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-//        testGeneratedSheet(1);
-         runProblem(2, 10);
+//        testGeneratedSheet(3);
+         runProblem(3, 1);
     }
 
     public static void testGeneratedSheet(int sheetNumber) {
