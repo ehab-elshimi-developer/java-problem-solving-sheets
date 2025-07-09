@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 //        testGeneratedSheet(1);
-         runProblem(1, 1);
+         runProblem(2, 10);
     }
 
     public static void testGeneratedSheet(int sheetNumber) {
