@@ -34,7 +34,7 @@ public class Sh6Pr6 {
 
     }
     public int[][]  readMatrix(){
-        System.out.print("Enter Number Of Rows: ");
+        System.out.print("Enter Number Of Rows : ");
         int rows = input.nextInt();
         System.out.print("Enter Number Of Columns: ");
         int columns = input.nextInt();
